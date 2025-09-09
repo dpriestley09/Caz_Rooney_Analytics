@@ -10,7 +10,7 @@ My name is Daniel Priestley, and my personal brand is Caz Rooney Analytics. This
 
 A comprehensive analysis of over 120,000 wine reviews, culminating in a live, interactive dashboard. This project demonstrates skills in machine learning (Linear Regression) and building a dynamic, client-facing application with HTML, JavaScript, D3.js, and Chart.js.
 
-* **Live Demo:** [https://dpriestley09.github.io/Wine_Analysis_Dashboard/wine-project.html](https://dpriestley09.github.io/Wine_Analysis_Dashboard/wine-project.html)
+* **Live Demo:** [https://dpriestley09.github.io/Wine_Analysis_Dashboard/](https://dpriestley09.github.io/Wine_Analysis_Dashboard/)
 * **Repository:** [https://github.com/dpriestley09/Wine_Analysis_Dashboard](https://github.com/dpriestley09/Wine_Analysis_Dashboard)
 
 #### 2. Titanic Survivors Analysis
